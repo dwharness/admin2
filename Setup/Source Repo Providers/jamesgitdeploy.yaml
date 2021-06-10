@@ -3,6 +3,6 @@ type: GIT
 branch: main
 keyAuth: false
 password: safeharness:esaDr4YNTfuZG_pe8agEZg
-url: https://github.com/jamesmannelly/adminlab.git
+url: https://github.com/jamesmannelly/adminlab
 urlType: REPO
 username: git
